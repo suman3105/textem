@@ -5,7 +5,7 @@ A simple web application built with *Streamlit* that predicts emotions from text
 ## 🚀 Features  
 - Input text and get the *predicted emotion* with emoji support  
 - Uses *pre-trained ML/NLP models* (scikit-learn, transformers, xgboost)  
-- Interactive and mobile-friendly UI powered by *Streamlit*  
+- Interactive and mobile-friendly UI powered by *Streamlit*  .
 
 ## 🛠 Installation  
 
